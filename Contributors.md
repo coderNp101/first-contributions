@@ -36,6 +36,7 @@
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Sumiran Subedi](https://github.com/coderNp101)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Onochie Peter Eze](https://github.com/RxZepet)
 - [Isaiah Swain](https://github.com/imswain)
